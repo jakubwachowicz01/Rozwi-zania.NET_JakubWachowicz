@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GrupyProduktów>
+	
+  <Grupa>
+    <Nazwa>Samochody</Nazwa>
+	  <Produkty>
+		  <Produkt
+			  id="1">
+			  <Nazwa>Rover 75</Nazwa>
+			  <Cena>8 000</Cena>
+			  <Rocznik>2004</Rocznik>
+			  <Silnik>2.0CDT</Silnik>
+			  <KrajPochodzenia Kod="GB">
+				  <Nazwa>Anglia</Nazwa>
+			  </KrajPochodzenia>
+		  </Produkt>
+		  <Produkt
+			  id="2">
+			  <Nazwa>Alfa Romeo 145</Nazwa>
+			  <Cena>3500</Cena>
+			  <Rocznik>1999</Rocznik>
+			  <Silnik>1.9JTD</Silnik>
+			  <KrajPochodzenia Kod="WŁ">
+				  <Nazwa>Włochy</Nazwa>
+			  </KrajPochodzenia>
+		  </Produkt>
+	  </Produkty>
+  </Grupa>
+
+	<Grupa>
+		<Nazwa>Ciężarowe</Nazwa>
+		<Produkty>
+			<Produkt
+			  id="4">
+				<Nazwa>Volvo FH 460</Nazwa>
+				<Cena>419 000zł</Cena>
+				<Rocznik>2014</Rocznik>
+				<Silnik>12 777 cm3y</Silnik>
+				<KrajPochodzenia Kod="SW">
+					<Nazwa>Szwecja</Nazwa>
+				</KrajPochodzenia>
+			</Produkt>
+			<Produkt
+			  id="5">
+				<Nazwa>Mercedes-Benz Actros</Nazwa>
+				<Cena>268 000zł</Cena>
+				<Rocznik>2017</Rocznik>
+				<Silnik>12 800 cm3</Silnik>
+				<KrajPochodzenia Kod="NM">
+					<Nazwa>Niemcy</Nazwa>
+				</KrajPochodzenia>
+			</Produkt>
+		</Produkty>
+	</Grupa>
+	
+  <Grupa>
+    <Nazwa>Motory</Nazwa>
+    <Produkty>
+		<Produkt
+			  id="6">
+			<Nazwa>Yamaha Tricity 300</Nazwa>
+			<Cena>35 300 zł</Cena>
+			<Rocznik>2022</Rocznik>
+			<Silnik>292 cm3</Silnik>
+			<KrajPochodzenia Kod="WŁ">
+				<Nazwa>Włochy</Nazwa>
+			</KrajPochodzenia>
+		</Produkt>
+		<Produkt
+			  id="7">
+			<Nazwa>Piaggio MP3</Nazwa>
+			<Cena>12000</Cena>
+			<Rocznik>2020</Rocznik>
+			<Silnik>278 cm3</Silnik>
+			<KrajPochodzenia Kod="PL">
+				<Nazwa>Polska</Nazwa>
+			</KrajPochodzenia>
+		</Produkt>
+    </Produkty>
+  </Grupa>
+	
+</GrupyProduktów>
