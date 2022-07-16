@@ -1,0 +1,32 @@
+D:\studia\NET\NET-INIS4_PR2.2-z2-main\bin\Debug\NET INIS4_PR2.2 z2.exe.config
+D:\studia\NET\NET-INIS4_PR2.2-z2-main\bin\Debug\NET INIS4_PR2.2 z2.exe
+D:\studia\NET\NET-INIS4_PR2.2-z2-main\bin\Debug\NET INIS4_PR2.2 z2.pdb
+D:\studia\NET\NET-INIS4_PR2.2-z2-main\obj\Debug\NET INIS4_PR2.2 z2.csprojAssemblyReference.cache
+D:\studia\NET\NET-INIS4_PR2.2-z2-main\obj\Debug\MainWindow.g.cs
+D:\studia\NET\NET-INIS4_PR2.2-z2-main\obj\Debug\App.g.cs
+D:\studia\NET\NET-INIS4_PR2.2-z2-main\obj\Debug\NET INIS4_PR2.2 z2_MarkupCompile.cache
+D:\studia\NET\NET-INIS4_PR2.2-z2-main\obj\Debug\NET INIS4_PR2.2 z2_MarkupCompile.lref
+D:\studia\NET\NET-INIS4_PR2.2-z2-main\obj\Debug\App.baml
+D:\studia\NET\NET-INIS4_PR2.2-z2-main\obj\Debug\MainWindow.baml
+D:\studia\NET\NET-INIS4_PR2.2-z2-main\obj\Debug\NET INIS4_PR2.2 z2.g.resources
+D:\studia\NET\NET-INIS4_PR2.2-z2-main\obj\Debug\NET_INIS4_PR2._2_z2.Properties.Resources.resources
+D:\studia\NET\NET-INIS4_PR2.2-z2-main\obj\Debug\NET INIS4_PR2.2 z2.csproj.GenerateResource.cache
+D:\studia\NET\NET-INIS4_PR2.2-z2-main\obj\Debug\NET INIS4_PR2.2 z2.csproj.CoreCompileInputs.cache
+D:\studia\NET\NET-INIS4_PR2.2-z2-main\obj\Debug\NET INIS4_PR2.2 z2.exe
+D:\studia\NET\NET-INIS4_PR2.2-z2-main\obj\Debug\NET INIS4_PR2.2 z2.pdb
+D:\studia\NET\Zadanie2\bin\Debug\NET INIS4_PR2.2 z2.exe.config
+D:\studia\NET\Zadanie2\bin\Debug\NET INIS4_PR2.2 z2.exe
+D:\studia\NET\Zadanie2\bin\Debug\NET INIS4_PR2.2 z2.pdb
+D:\studia\NET\Zadanie2\obj\Debug\NET INIS4_PR2.2 z2.csprojAssemblyReference.cache
+D:\studia\NET\Zadanie2\obj\Debug\MainWindow.g.cs
+D:\studia\NET\Zadanie2\obj\Debug\App.g.cs
+D:\studia\NET\Zadanie2\obj\Debug\NET INIS4_PR2.2 z2_MarkupCompile.cache
+D:\studia\NET\Zadanie2\obj\Debug\NET INIS4_PR2.2 z2_MarkupCompile.lref
+D:\studia\NET\Zadanie2\obj\Debug\App.baml
+D:\studia\NET\Zadanie2\obj\Debug\MainWindow.baml
+D:\studia\NET\Zadanie2\obj\Debug\NET INIS4_PR2.2 z2.g.resources
+D:\studia\NET\Zadanie2\obj\Debug\NET_INIS4_PR2._2_z2.Properties.Resources.resources
+D:\studia\NET\Zadanie2\obj\Debug\NET INIS4_PR2.2 z2.csproj.GenerateResource.cache
+D:\studia\NET\Zadanie2\obj\Debug\NET INIS4_PR2.2 z2.csproj.CoreCompileInputs.cache
+D:\studia\NET\Zadanie2\obj\Debug\NET INIS4_PR2.2 z2.exe
+D:\studia\NET\Zadanie2\obj\Debug\NET INIS4_PR2.2 z2.pdb
